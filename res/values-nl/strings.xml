@@ -7,15 +7,15 @@
     <string name="Button_Size_">"Knop Grootte:"</string>
     <string name="Button_Margin_">"Knop Marge:"</string>
     <string name="Buttons_">"Knoppen:"</string>
-    <string name="DEFAULTS">"STANDAARD"</string>
-    <string name="WEEKLY">"WEKELIJKS"</string>
-    <string name="DAILY">"DAGELIJKS"</string>
+    <string name="DEFAULTS">"Standaard"</string>
+    <string name="WEEKLY">"Wekelijks"</string>
+    <string name="DAILY">"Daglijks"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Spel Modus:"</string>
     <string name="Show_Names">"Namen Weergeven"</string>
     <string name="Show_Avatars">"Skins Weergeven"</string>
-    <string name="PLAY">"SPELEN"</string>
-    <string name="OPTIONS">"OPTIES"</string>
+    <string name="PLAY">"Spelen"</string>
+    <string name="OPTIONS">"Opties"</string>
 
     <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Naam:"</string>
@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"Weet je het zeker?"</string>
     <string name="Yes">"Ja"</string>
     <string name="No">"Nee"</string>
-    <string name="WAIT">"WACHT"</string>
+    <string name="WAIT">"Wacht"</string>
     <string name="Must_Specify_Name_">"Je moet een naam opgeven."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Het niveau van de app kan veranderen wanneer je zoekt naar groepen."</string>
